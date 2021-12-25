@@ -1,7 +1,9 @@
 # NumberOfSteps
 Solution to 'Number Of Steps' problem in HackerEarth: calculates no. of steps taken to all provided elements have the same value, prints -1 if not possible.
+
 ![image](https://user-images.githubusercontent.com/73764849/147378200-f5405b5d-8cd3-4c1c-81fd-298baecf09f6.png)
 ![image](https://user-images.githubusercontent.com/73764849/147378204-5fe6a290-5c6d-4958-8580-47edd5bedfa9.png)
+
 The above is the question provided in HackerEarth for the 'Number Of Steps' problem.
 
 In my solution I have added some additional print statements that:
